@@ -1,4 +1,13 @@
 body{
   text-align: center;
   background-color: #1a0000;
+  color: #ffffff;
+}
+
+h1{
+  font-family: 'Germania One', sans-serif; 
+}
+
+h2{
+ font-family: 'Poppins', sans-serif;
 }
