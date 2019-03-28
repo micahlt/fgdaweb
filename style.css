@@ -21,3 +21,8 @@ img{
 p{
   font-family: 'Poppins', sans-serif; 
 }
+
+.gmimg{
+   width: 45%;
+   height: auto;
+}
