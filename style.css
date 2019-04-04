@@ -22,6 +22,11 @@ p{
   font-family: 'Poppins', sans-serif; 
 }
 
+.fgdatop{
+  text-align: center;
+  width: 25%;
+}
+
 .gmimg{
    width: 45%;
    height: auto;
