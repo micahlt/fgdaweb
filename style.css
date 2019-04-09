@@ -19,6 +19,11 @@ img{
   height: auto;
 }
 
+.gifhead{
+  -webkit-filter: blur(25px); /* Safari 6.0 - 9.0 */
+  filter: grayscale(25px);  
+}
+
 p{
   font-family: 'Poppins', sans-serif; 
 }
