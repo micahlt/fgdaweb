@@ -20,8 +20,8 @@ img{
 }
 
 .gifhead{
-  -webkit-filter: blur(100px); /* Safari 6.0 - 9.0 */
-  filter: grayscale(100px);  
+  -webkit-filter: blur(30px); /* Safari 6.0 - 9.0 */
+  filter: blur(30px);  
 }
 
 p{
