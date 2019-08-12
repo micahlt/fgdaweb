@@ -1,0 +1,2 @@
+On the first day of summer, this script will be placed in the home page (index.html)
+<meta http-equiv="refresh" content="0; URL='https://micahlt.github.io/fgdaweb/summer.html'"/>
